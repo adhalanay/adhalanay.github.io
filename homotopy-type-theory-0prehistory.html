@@ -1,0 +1,268 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <link rel="shortcut icon" href="" />
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="author" content="Andrei Halanay" />
+        <title>Homotopy Type Theory: 0.Prehistory</title>
+        
+<meta name="description" content="&lt;p class=&#34;center&#34;&gt;&lt;em&gt;This series of posts documents my attempt to understand Univalent foundations
+and Homotopy Type Theory. In this one I present the motivations of V.A.Voevodsky
+for introducing the Univalent Foundations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Our &lt;a class=&#34;reference external&#34; href=&#34;https://www.ias.edu/ideas/2014/voevodsky-origins&#34;&gt;story&lt;/a&gt; begins with &lt;a class=&#34;reference external&#34; href=&#34;http://www.sciencedirect.com/science/article/pii/0001870886900812&#34;&gt;this paper&lt;/a&gt; by Spencer
+Bloch. It is one of the founding stones in the area …&lt;/p&gt;" />
+<meta name="keywords" content=" foundations  "/>
+
+        <!--[if !IE 7]>
+        <style type="text/css">
+            #main-content {display:table;height:100%}
+        </style>
+        <![endif]-->
+        <link rel="stylesheet" href="./theme/css/backdrop.css" />
+        <link rel="stylesheet" href="./theme/css/pygments.css" />
+        <script src="./theme/js/modernizr.js"></script>
+
+        <link href="https://adhalanay.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="My Web Site Full Atom Feed" />
+        <link href="https://adhalanay.github.io/feeds/research.atom.xml" type="application/atom+xml" rel="alternate" title="My Web Site Categories Atom Feed" />
+
+    </head>
+      
+
+    <body>
+        <div class="master-row">
+
+            <div class="content-pane main-content">
+                <nav class="top-bar" data-topbar role="navigation">
+                    <ul class="title-area">
+                        <li class="name"><!-- Leave this empty --></li>
+                        <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+                    </ul>
+                    <section class="top-bar-section">
+                        <ul class="left">
+                        </ul>
+                        <ul class="right">
+                            <li><a href="./category/anul-i.html">Anul-I</a></li>
+                            <li><a href="./category/anul-ii.html">Anul-II</a></li>
+                            <li><a href="./category/anul-iii.html">Anul-III</a></li>
+                            <li class="active"><a href="./category/research.html">research</a></li>
+                            <li><a href="./category/soft-matematic.html">Soft Matematic</a></li>
+                        </ul>
+                    </section>
+                </nav>
+
+                <div class="row title-bar">
+                    <div class="small-12 columns">
+                        <h1><a href=".">My Web Site</a></h1><h2> <small></small></h2>
+                        <hr>
+                    </div>
+                </div>
+            
+                <div id="contents">
+<div class="row">
+    <div class="small-12 columns article">
+        <h2>Homotopy Type Theory: 0.Prehistory</h2>
+        <div class="row info-bar" style="margin-left:0rem;margin-bottom:6px;">
+    <div class="small-12 columns">
+        <ul class="inline-list">
+            <li><span><i class="fa fa-calendar"></i>&nbsp; Tue 02 October 2018</span></li>
+            <li><span><i class="fa fa-folder-open"></i>&nbsp; <a href="./category/research.html">research</a></span></li>
+            <li>
+                <span>
+                    <i class="fa fa-tags"></i>&nbsp;
+                    <a href="./tag/foundations.html"><span class="label">foundations</span></a>
+                </span>
+            </li>
+        </ul>
+    </div>
+</div>
+        <section class="article">
+            <p class="center"><em>This series of posts documents my attempt to understand Univalent foundations
+and Homotopy Type Theory. In this one I present the motivations of V.A.Voevodsky
+for introducing the Univalent Foundations.</em></p>
+<p>Our <a class="reference external" href="https://www.ias.edu/ideas/2014/voevodsky-origins">story</a> begins with <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/0001870886900812">this paper</a> by Spencer
+Bloch. It is one of the founding stones in the area of motivic cohomology, but
+unfortunately a fundamental result was shown to be false by A.A. Suslin, shortly
+after publication, and there was no alternative proof. So the paper turned into
+a collection of conjectures. Only in 1993 a correct proof was published.</p>
+<p>In order to progress in this area, V.A. Voevodsky, A.A. Suslin and Eric
+Friedlander took a different path, which avoided the work of Bloch and relied on
+a paper of Voevodsky written in 1992-1993 and published in 1995. While giving a
+series of lectures presenting the results in this paper at the IAS in 2000,
+Voevodsky discovered a gap in it. Fortunately he was able to prove a weaker
+result and to recover the main results. As a consequence of this fact, he was
+shocked that despite many groups of mathematicians studied his paper nobody was
+able to spot the mistake, and took his results for granted.</p>
+<p>An even scarier chain of events began with the publication of a preprint of
+Carlos Simpson, stating that the fundamental result in a paper by Voevodsky and
+M.M. Kapranov is wrong. Simpson was not able to identify the mistake and he only
+produced a counter-example. In fact it was not clear if there really was a
+mistake in the paper of Kapranov and Voevodsky or one in the example of Simpson.
+In 2013 Voevodsky finally came to the conclusion that indeed there is a mistake
+in their paper, but as this <a class="reference external" href="https://mathoverflow.net/questions/234492/what-is-the-mistake-in-the-proof-of-the-homotopy-hypothesis-by-kapranov-and-voev">question</a>
+shows it is not easy to understand what precisely is wrong.</p>
+<p>This state of affairs in which significant mistakes in important and rather
+widely read (at least by the standards of mathematics) went undetected for
+decades was a shock to Voevodsky who began thinking about how to correct
+this. The obvious solution was to use computers to check the proofs.</p>
+<p>At this time (some twenty years ago) there was very little interest of &quot;real&quot;
+mathematicians for computer proof-assistants. They were used mostly by computer
+scientists for formal verification of software and hardware. A more serious
+problem was find a new foundation of mathematics as the classical
+Zermelo-Fraenkel axioms together with the axiom of choice was not appropriate
+for Voevodsky's needs and also do not play very well with various attempts of
+formalization in a computer-friendly way.</p>
+<p>The most promising candidate was the Calculus of Inductive Constructions, which
+was developed in the same time with the <a class="reference external" href="https://coq.inria.fr">Coq</a> proof
+assistant. Coq is rather well known among computer scientists as the language
+used in the <a class="reference external" href="https://softwarefoundations.cis.upenn.edu/">Software Foundations</a>
+course and as the basis of the book <a class="reference external" href="http://adam.chlipala.net/cpdt/cpdt.pdf">Certified Programming with Dependent Types</a>
+by Adam Chlipala. Voevodsky chose this framework for his work on building a new
+foundational system for mathematics which he called <strong>univalent foundations</strong>.</p>
+<p>The Calculus of Inductive Constructions is a form a <strong>type theory</strong> more
+precisely a form of inductive type theory, a foundational system alternative to
+set theory. Type theory will be the object of the next post.</p>
+    
+        </section>
+           <hr>
+        <div id="intense"></div>
+       <script type="text/javascript">
+          var idcomments_acct = 'a9caf2a73f0584fce57ce54adee072f2';
+          var idcomments_post_id;
+          var idcomments_post_url;
+        </script>
+      <span id="IDCommentsPostTitle" style="display:none"></span>
+      <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+      <script type="text/javascript">
+         var idcomments_acct = 'a9caf2a73f0584fce57ce54adee072f2';
+         var idcomments_post_id;
+         var idcomments_post_url;
+      </script>
+      <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+    </div>
+</div>
+                </div>
+
+                <footer class="show-for-large-up">
+<div class="row">
+    <div class="small-6 medium-3 columns">
+        <ul class="left-nav">
+            <li><a href=".">Home &nbsp;<i class="fa fa-home fa-fw"></i></a></li>
+            <li><a href="./categories.html">Categories &nbsp;<i class="fa fa-folder-open fa-fw"></i></a></li>
+        </ul>
+    </div>
+    <div class="small-6 medium-3 medium-push-6 columns">
+        <ul class="right-nav">
+            <li><a href="https://adhalanay.github.io/feeds/all.atom.xml"><i class="fa fa-rss fa-fw"></i>&nbsp; Feed</a></li>
+            <li><a href="./archives.html"><i class="fa fa-archive fa-fw"></i>&nbsp; Archives</a></li>
+        </ul>
+    </div>
+    <div class="small-12 medium-6 medium-pull-3 columns text-center">
+        <p class="tag-cloud">
+            <a href="./tags.html"><i class="fa fa-tags"></i>&nbsp;Tags:</a>&nbsp;&nbsp;
+            &nbsp;&hellip;
+        </p>
+    </div>
+    <div class="small-12 columns sub-footer">
+        <hr>
+        <div class="small-12 medium-6 columns">
+            <p class="small-text-center medium-text-left">
+                &copy;  Andrei Halanay 
+                <!-- <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="cc.png" /></a>-->
+            </p>
+        </div>
+        <script type="text/javascript" src="https://www.w3counter.com/tracker.js?id=114073"></script> 
+        <div class="small-12 medium-6 columns">
+            <p class="small-text-center medium-text-right">
+                Proudly powered by <a href="http://blog.getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="https://www.python.org/">Python</a>.
+            </p>
+        </div>
+    </div>
+</div>                </footer>
+            </div>
+            
+            <div class="image-pane main-content" style="background: url(''); background-size:cover; background-position: right;">
+                <div class="row">
+                    <div class="small-12 medium-4 large-12 columns">
+                        <h5 class='text-center'>About</h5>
+                        <div class="about-me">
+                            <div class="small-12 columns text-justify">
+                                
+                            </div>
+                            <div class="small-12 columns">
+                                <ul class="inline-center social-list">
+                                    <li><a href="#"><i class="fa fa-you can add links in your config file"></i>&nbsp; You can add links in your config file</a></li>
+                                    <li><a href="#"><i class="fa fa-another social link"></i>&nbsp; Another social link</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="small-12 medium-4  large-12 columns link-list">
+                        <h5 class='text-center'>Links</h5>
+                        <ul class="inline-center">
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                    </div>
+
+<!--
+                    <div class="small-12 medium-3 large-12 columns">
+                    </div>
+-->
+               </div>
+            </div>
+        </div>
+        
+        
+        <div class="row">
+            <footer class="hide-for-large-up">
+<div class="row">
+    <div class="small-6 medium-3 columns">
+        <ul class="left-nav">
+            <li><a href=".">Home &nbsp;<i class="fa fa-home fa-fw"></i></a></li>
+            <li><a href="./categories.html">Categories &nbsp;<i class="fa fa-folder-open fa-fw"></i></a></li>
+        </ul>
+    </div>
+    <div class="small-6 medium-3 medium-push-6 columns">
+        <ul class="right-nav">
+            <li><a href="https://adhalanay.github.io/feeds/all.atom.xml"><i class="fa fa-rss fa-fw"></i>&nbsp; Feed</a></li>
+            <li><a href="./archives.html"><i class="fa fa-archive fa-fw"></i>&nbsp; Archives</a></li>
+        </ul>
+    </div>
+    <div class="small-12 medium-6 medium-pull-3 columns text-center">
+        <p class="tag-cloud">
+            <a href="./tags.html"><i class="fa fa-tags"></i>&nbsp;Tags:</a>&nbsp;&nbsp;
+            &nbsp;&hellip;
+        </p>
+    </div>
+    <div class="small-12 columns sub-footer">
+        <hr>
+        <div class="small-12 medium-6 columns">
+            <p class="small-text-center medium-text-left">
+                &copy;  Andrei Halanay 
+                <!-- <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="cc.png" /></a>-->
+            </p>
+        </div>
+        <script type="text/javascript" src="https://www.w3counter.com/tracker.js?id=114073"></script> 
+        <div class="small-12 medium-6 columns">
+            <p class="small-text-center medium-text-right">
+                Proudly powered by <a href="http://blog.getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="https://www.python.org/">Python</a>.
+            </p>
+        </div>
+    </div>
+</div>            </footer>
+        </div>
+        
+        
+        <script src="./theme/js/jquery.min.js"></script>
+        <script src="./theme/js/foundation.min.js"></script>
+        <script src="./theme/js/app.js"></script>
+    </body>
+  
+</html>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site - research</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/research.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-10-02T20:14:33+03:00</updated><entry><title>Homotopy Type Theory: 0.Prehistory</title><link href="https://adhalanay.github.io/homotopy-type-theory-0prehistory.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/homotopy-type-theory-0prehistory.html</id><summary type="html">&lt;p class="center"&gt;&lt;em&gt;This series of posts documents my attempt to understand Univalent foundations
+and Homotopy Type Theory. In this one I present the motivations of V.A.Voevodsky
+for introducing the Univalent Foundations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Our &lt;a class="reference external" href="https://www.ias.edu/ideas/2014/voevodsky-origins"&gt;story&lt;/a&gt; begins with &lt;a class="reference external" href="http://www.sciencedirect.com/science/article/pii/0001870886900812"&gt;this paper&lt;/a&gt; by Spencer
+Bloch. It is one of the founding stones in the area …&lt;/p&gt;</summary><content type="html">&lt;p class="center"&gt;&lt;em&gt;This series of posts documents my attempt to understand Univalent foundations
+and Homotopy Type Theory. In this one I present the motivations of V.A.Voevodsky
+for introducing the Univalent Foundations.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Our &lt;a class="reference external" href="https://www.ias.edu/ideas/2014/voevodsky-origins"&gt;story&lt;/a&gt; begins with &lt;a class="reference external" href="http://www.sciencedirect.com/science/article/pii/0001870886900812"&gt;this paper&lt;/a&gt; by Spencer
+Bloch. It is one of the founding stones in the area of motivic cohomology, but
+unfortunately a fundamental result was shown to be false by A.A. Suslin, shortly
+after publication, and there was no alternative proof. So the paper turned into
+a collection of conjectures. Only in 1993 a correct proof was published.&lt;/p&gt;
+&lt;p&gt;In order to progress in this area, V.A. Voevodsky, A.A. Suslin and Eric
+Friedlander took a different path, which avoided the work of Bloch and relied on
+a paper of Voevodsky written in 1992-1993 and published in 1995. While giving a
+series of lectures presenting the results in this paper at the IAS in 2000,
+Voevodsky discovered a gap in it. Fortunately he was able to prove a weaker
+result and to recover the main results. As a consequence of this fact, he was
+shocked that despite many groups of mathematicians studied his paper nobody was
+able to spot the mistake, and took his results for granted.&lt;/p&gt;
+&lt;p&gt;An even scarier chain of events began with the publication of a preprint of
+Carlos Simpson, stating that the fundamental result in a paper by Voevodsky and
+M.M. Kapranov is wrong. Simpson was not able to identify the mistake and he only
+produced a counter-example. In fact it was not clear if there really was a
+mistake in the paper of Kapranov and Voevodsky or one in the example of Simpson.
+In 2013 Voevodsky finally came to the conclusion that indeed there is a mistake
+in their paper, but as this &lt;a class="reference external" href="https://mathoverflow.net/questions/234492/what-is-the-mistake-in-the-proof-of-the-homotopy-hypothesis-by-kapranov-and-voev"&gt;question&lt;/a&gt;
+shows it is not easy to understand what precisely is wrong.&lt;/p&gt;
+&lt;p&gt;This state of affairs in which significant mistakes in important and rather
+widely read (at least by the standards of mathematics) went undetected for
+decades was a shock to Voevodsky who began thinking about how to correct
+this. The obvious solution was to use computers to check the proofs.&lt;/p&gt;
+&lt;p&gt;At this time (some twenty years ago) there was very little interest of &amp;quot;real&amp;quot;
+mathematicians for computer proof-assistants. They were used mostly by computer
+scientists for formal verification of software and hardware. A more serious
+problem was find a new foundation of mathematics as the classical
+Zermelo-Fraenkel axioms together with the axiom of choice was not appropriate
+for Voevodsky's needs and also do not play very well with various attempts of
+formalization in a computer-friendly way.&lt;/p&gt;
+&lt;p&gt;The most promising candidate was the Calculus of Inductive Constructions, which
+was developed in the same time with the &lt;a class="reference external" href="https://coq.inria.fr"&gt;Coq&lt;/a&gt; proof
+assistant. Coq is rather well known among computer scientists as the language
+used in the &lt;a class="reference external" href="https://softwarefoundations.cis.upenn.edu/"&gt;Software Foundations&lt;/a&gt;
+course and as the basis of the book &lt;a class="reference external" href="http://adam.chlipala.net/cpdt/cpdt.pdf"&gt;Certified Programming with Dependent Types&lt;/a&gt;
+by Adam Chlipala. Voevodsky chose this framework for his work on building a new
+foundational system for mathematics which he called &lt;strong&gt;univalent foundations&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The Calculus of Inductive Constructions is a form a &lt;strong&gt;type theory&lt;/strong&gt; more
+precisely a form of inductive type theory, a foundational system alternative to
+set theory. Type theory will be the object of the next post.&lt;/p&gt;
+</content><category term="foundations"></category></entry></feed>

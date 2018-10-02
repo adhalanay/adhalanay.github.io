@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site - Anul-I</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/anul-i.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-10-02T20:14:33+03:00</updated><entry><title>Conice</title><link href="https://adhalanay.github.io/conice.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/conice.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\mathcal{P}$ o parabolă. Să se arate:&lt;/p&gt;
+&lt;p&gt;a) Locul geometric al proiecților focarului pe tangente este tangenta în
+vîrf;&lt;/p&gt;
+&lt;p&gt;b) Locul geometric al simetricelor focarului față de tangente este
+directoarea;&lt;/p&gt;
+&lt;p&gt;c) Directoarea unei parabole înscrise într-un triunghi trece prin
+ortocentrul triunghiului;&lt;/p&gt;
+&lt;p&gt;d) Tangenta într-un punct $M$ al parabolei este …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\mathcal{P}$ o parabolă. Să se arate:&lt;/p&gt;
+&lt;p&gt;a) Locul geometric al proiecților focarului pe tangente este tangenta în
+vîrf;&lt;/p&gt;
+&lt;p&gt;b) Locul geometric al simetricelor focarului față de tangente este
+directoarea;&lt;/p&gt;
+&lt;p&gt;c) Directoarea unei parabole înscrise într-un triunghi trece prin
+ortocentrul triunghiului;&lt;/p&gt;
+&lt;p&gt;d) Tangenta într-un punct $M$ al parabolei este bisectoarea unghiului format de
+paralela la axă prin $M$ și dreapta care unește focarul cu $M$;&lt;/p&gt;
+&lt;p&gt;e) Directoarea este locul geometric al punctelor de unde se pot duce
+tangente perpendiculare la parabolă.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Să se arate:&lt;/p&gt;
+&lt;p&gt;a) O secantă arbitrară determină segmente egale între hiperbolă și
+asimptote;&lt;/p&gt;
+&lt;p&gt;b) Mijlocul segmentului determinat de intersecția unei tangente cu
+asimptotele este punctul de contact;&lt;/p&gt;
+&lt;p&gt;c) Aria triunghiului format de asimptotele hiperbolei și o tangentă mobilă
+este constantă;&lt;/p&gt;
+&lt;p&gt;d) Produsul distanțelor unui punct mobil de pe hiperbolă la asimptote este
+constant;&lt;/p&gt;
+&lt;p&gt;e) Toate hiperbolele echilatere circumscrise unui triunghi trec prin
+ortocentru. Centrele acestor hiperbole se află pe cercul lui Feuerbach al
+triunghiului.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\mathcal{E}$ o elipsă de focare $F_1,F_2$. Să se arate:&lt;/p&gt;
+&lt;p&gt;a) Normala într-un punct $P$ este bisectoarea unghiului format de $PF_1$ și
+$PF_2$;&lt;/p&gt;
+&lt;p&gt;b) Mijloacele tuturor corzilor paralele cu o direcție dată se află pe un
+diametru;&lt;/p&gt;
+&lt;p&gt;c) Dacă elipsa are ecuația $$\frac{x^2}{a^2}+\frac{y^2}{b^2}=1$$ atunci
+locul geometric al punctelor de unde se pot duce tangente perpendiculare
+este cercul de ecuație $x^2+y^2=a^2+b^2$ (cercul ortoptic);&lt;/p&gt;
+&lt;p&gt;d) Locul geometric al simetricelor lui $F_1$ față de tangente este cercul cu centru în $F_2$ de
+rază $2a$ (cercul director);&lt;/p&gt;
+&lt;p&gt;e) Locul geometric al proiecților lui $F_1$ pe tangente este un cerc
+concentric de rază $a$ (cercul principal).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Conice - Recapitulare</title><link href="https://adhalanay.github.io/conice-recapitulare.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/conice-recapitulare.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\Delta ABC$ un triunghi cu centrul de greutate $G$. Arătați că există &lt;/p&gt;
+&lt;p&gt;a) o elipsă de centru $G$ care trece prin $A,B$ și $C$ (elipsa lui Steiner
+exterioară)&lt;/p&gt;
+&lt;p&gt;b) o elipsă de centru $G$ care este tangentă la laturi în mijloacele lor
+(elipsa lui Steiner interioară).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\mathcal …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\Delta ABC$ un triunghi cu centrul de greutate $G$. Arătați că există &lt;/p&gt;
+&lt;p&gt;a) o elipsă de centru $G$ care trece prin $A,B$ și $C$ (elipsa lui Steiner
+exterioară)&lt;/p&gt;
+&lt;p&gt;b) o elipsă de centru $G$ care este tangentă la laturi în mijloacele lor
+(elipsa lui Steiner interioară).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\mathcal{P}$ o parabolă cu focarul $F$. Tangentele duse dintr-un punct
+   exterior $M_0$ fac unghiuri egale cu $M_0F$.(Poncelet)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $d$ o dreaptă, $F$ un punct și $e &amp;gt; 0$. Să se determine locul geometric al
+   punctelor $P$ cu proprietatea 
+   $$ \frac{|PF|}{dist(P,d)}=e. $$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Laturile opuse ale unui hexagon înscris într-o conică se taie în trei puncte
+   coliniare. Reciproc, dacă laturile opuse ale unui hexagon se taie în trei
+   puncte coliniare, atunci hexagonul este înscris într-o conică (Pascal).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cele trei drepte care unesc vîrfurile opuse ale unui hexagon circumscris unei
+   conice sînt concurente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Drepte și plane</title><link href="https://adhalanay.github.io/drepte-si-plane.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/drepte-si-plane.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $d_1$ dreapta de ecuații
+    $$
+    \left{ \begin{array}{c}
+    a_{11} x + a_{12} y + a_{13} z + a_{14} = 0 \
+    a_{21} x + a_{22} y + a_{23} z + a_{24} = 0. \end{array} \right.
+    $$&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Determinați parametrii directori ai lui $d_1$;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Determinați forma generală a planelor care o conțin …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $d_1$ dreapta de ecuații
+    $$
+    \left{ \begin{array}{c}
+    a_{11} x + a_{12} y + a_{13} z + a_{14} = 0 \
+    a_{21} x + a_{22} y + a_{23} z + a_{24} = 0. \end{array} \right.
+    $$&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Determinați parametrii directori ai lui $d_1$;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Determinați forma generală a planelor care o conțin pe $d_1$;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie dreapta $d_2$ de ecuații&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;$$ 
+\left{ \begin{array}{c}
+a_{31} x + a_{32} y + a_{33} z + a_{34} = 0 \
+a_{41} x + a_{42} y + a_{43} z + a_{44} = 0. \end{array} \right.
+$$&lt;/p&gt;
+&lt;p&gt;Găsiți proprietățile matricei $A=\left(a_{ij}\right)_{i,j=\overline{1,4}}$ pentru care
+$d_1$ și $d_2$ sînt coplanare.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\triangle ABC$ și $E \in AB$, $F \in AC$ și $D=BF \cap CE$.
+   Atunci mijloacele segmentelor $[BC],[AD]$ și $[EF]$ sînt coliniare.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Geometrie afină-Probleme recapitulative</title><link href="https://adhalanay.github.io/geometrie-afina-probleme-recapitulative.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/geometrie-afina-probleme-recapitulative.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că orice două dilatări avînd același centru comută.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Folosind rezultatul precedent demonstrați :&lt;/p&gt;
+&lt;p&gt;Fie $A,B,C$ trei puncte pe o dreaptă $d$ și $A',B',C'$ pe altă dreaptă $d'$. Dacă $AB' || BA'$ și $BC'||CB'$ atunci $AC'||CA'$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Folosind de asemenea exercițiul 1, demonstrați:&lt;/p&gt;
+&lt;p&gt;Fie $\Delta ABC$ și …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că orice două dilatări avînd același centru comută.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Folosind rezultatul precedent demonstrați :&lt;/p&gt;
+&lt;p&gt;Fie $A,B,C$ trei puncte pe o dreaptă $d$ și $A',B',C'$ pe altă dreaptă $d'$. Dacă $AB' || BA'$ și $BC'||CB'$ atunci $AC'||CA'$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Folosind de asemenea exercițiul 1, demonstrați:&lt;/p&gt;
+&lt;p&gt;Fie $\Delta ABC$ și $\Delta A'B'C'$ astfel încît laturile corespunzătoare
+sînt paralele. Atunci $AA'$, $BB'$ și $CC'$ sînt concurente sau paralele.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\Delta ABC$ și $P$ un punct. Fie $A',B',C'$ picioarele cevienelor prin
+   $P$ și $A'',B'',C''$ simetricele lor prin mijlocul segmentelor pe care se
+   află. Atunci $AA'' \cap BB'' \cap CC'' = {Q}$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Van Aubel) Fie $\Delta ABC$, fie $O$ un punct și ${\alpha}=AO \cap BC$, ${\beta}=BO
+   \cap AC$ și ${\gamma}=CO \cap AB$. Atunci
+   $$ \frac{OA}{O\alpha}=\frac{\beta A}{\beta C}+\frac{\gamma A}{\gamma B}.$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Geometrie euclidiană și convexitate</title><link href="https://adhalanay.github.io/geometrie-euclidiana-si-convexitate.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/geometrie-euclidiana-si-convexitate.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie triunghiul $\Delta ABC$. Arătați că centrul de greutate, centrul cercului
+   circumscris și ortocentrul sînt coliniare.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie dreapta $d:\frac{x-1}{1}=\frac{y-2}{0}=\frac{z-1}{1}$.&lt;/p&gt;
+&lt;p&gt;a) Determinați simetria ortogonală de axă $d$;&lt;/p&gt;
+&lt;p&gt;b) Determinați rotația de axă $d$ și unghi $\frac{\pi}{3}$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $V$ un spațiu …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie triunghiul $\Delta ABC$. Arătați că centrul de greutate, centrul cercului
+   circumscris și ortocentrul sînt coliniare.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie dreapta $d:\frac{x-1}{1}=\frac{y-2}{0}=\frac{z-1}{1}$.&lt;/p&gt;
+&lt;p&gt;a) Determinați simetria ortogonală de axă $d$;&lt;/p&gt;
+&lt;p&gt;b) Determinați rotația de axă $d$ și unghi $\frac{\pi}{3}$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $V$ un spațiu afin real. O submulțime $M$ se numește convexă dacă o dată cu
+   două puncte $A,B$ conține întregul segment $\left[AB\right]={tA+(1-t)B| 0 \leq t \leq
+   1}$. Să se arate că dacă $N$ este o mulțime finită cu $m$ elemente într-un
+   spațiu de dimensiune $n \leq m-2$, atunci există o partiție $N=N_1 \cup N_2$,
+   $N_1 \cap N_2 = \emptyset$ astfel încît $conv(N_1) \cap conv(N_2) \neq
+   \emptyset$ (Teorema lui Radon).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Teorema lui Helly) Fie $M_1,\dots, M_r$ submulțimi convexe ale lui $\mathbb{R}^n, r \geq n+1$.
+   Dacă intersecția a oricare $n+1$ este nevidă, atunci intersecția tuturor este
+   nevidă.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Geometrie euclidiană și convexitate-II</title><link href="https://adhalanay.github.io/geometrie-euclidiana-si-convexitate-ii.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/geometrie-euclidiana-si-convexitate-ii.html</id><summary type="html">&lt;h2&gt;Convexitate-Probleme recapitulative&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $X$ un spațiu afin, $A \subset X$ o submulțime nevidă, convexă și $L$ un
+   subspațiu afin disjunct față de $A$. Atunci există un hiperplan $H$ care
+   conține $L$ și este disjunct față de $A$ (Hahn-Banach).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $M$ o submulțime într-un spațiu afin de dimensiune $n$. Atunci 
+$$conv …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h2&gt;Convexitate-Probleme recapitulative&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $X$ un spațiu afin, $A \subset X$ o submulțime nevidă, convexă și $L$ un
+   subspațiu afin disjunct față de $A$. Atunci există un hiperplan $H$ care
+   conține $L$ și este disjunct față de $A$ (Hahn-Banach).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $M$ o submulțime într-un spațiu afin de dimensiune $n$. Atunci 
+$$conv(M)={\sum_{i=1}^{n+1} a_iA_i | A_i \in M, a_i \geq 0, \sum_{i=1}^{n+1}a_i
+= 1}$$ (Teorema lui Caratheodory).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;$^*$(Lema lui Kuratowski-Knaster-Mazurkiewicz) Fie $\Delta_n$ un simplex $(n-1)-$dimensional cu $n$ vîrfuri $A_1,\dots,A_n$.
+   Fie $C_1,\dots,C_n$ submulțimi închise astfel încît pentru orice $I \subset
+   {1,\dots,n}$, $$conv({A_i|i \in I}) \subset \bigcup_{i \in I } C_i.$$
+   Atunci $$ \bigcap_{i=1}^n C_i \neq \emptyset.$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Geometrie euclidiană&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că inversiunile păstrează unghiul a două drepte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Demonstrați că intr-un patrulater inscriptibil produsul lungimilor
+   diagonalelor este egal cu suma produselor lungimilor laturilor opuse;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie ABCD un patrulater inscriptibil. Atunci 
+$$ \frac{AC}{BD}=\frac{AB\cdot AD + BC\cdot CD}{AB\cdot BC+CD\cdot DA}.$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Să se arate că într-un triunghi mijloacele laturilor, picioarele înălțimilor
+   și mijloacele segmentelor care unesc vîrfurile cu ortocentrul sînt conciclice
+   (pe cercul lui Feuerbach).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că cercul lui Feuerbach este imaginea cercului circumscris printr-o
+   inversiune de centru $H$ și putere $-4R^2\cos A\cos B\cos C$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Geometrie proiectivă</title><link href="https://adhalanay.github.io/geometrie-proiectiva.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/geometrie-proiectiva.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\mathcal{P}$ un spațiu proiectiv de ordin $q$ și dimensiune $n$.
+   Calculați numărul de puncte, numărul de hiperplane și numărul de drepte din
+   $\mathcal{P}$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prin analogie cu planul lui Fano construiți un plan proiectiv cu $13$ puncte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie următoarea structură de incidență: punctele sale sînt punctele închiderii
+   proiective …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $\mathcal{P}$ un spațiu proiectiv de ordin $q$ și dimensiune $n$.
+   Calculați numărul de puncte, numărul de hiperplane și numărul de drepte din
+   $\mathcal{P}$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prin analogie cu planul lui Fano construiți un plan proiectiv cu $13$ puncte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie următoarea structură de incidență: punctele sale sînt punctele închiderii
+   proiective a planului euclidian, dreptele sint:&lt;/p&gt;
+&lt;p&gt;a) Dreptele perpendiculare pe axa $Ox$;&lt;/p&gt;
+&lt;p&gt;b) Dreptele paralele cu axa $Ox$;&lt;/p&gt;
+&lt;p&gt;c) Dreptele de ecuație $y=mx+n$ cu $m &amp;lt; 0$;&lt;/p&gt;
+&lt;p&gt;d) Mulțimile 
+$$ y = \left{\begin{array}{ccc} \frac{1}{2}(x-a)\tan\theta &amp;amp; y \geq 0 \ 
+(x-a)\tan\theta &amp;amp; y &amp;lt; 0\end{array}\right.$$
+pentru $a \in \mathbb{R}$ și $ 0 &amp;lt; \theta &amp;lt; \frac{\pi}{2}$.&lt;/p&gt;
+&lt;p&gt;Structura de incidență este următoarea : liniile de tipurile a), b) și c)
+care sint paralele se intersectează în punctele de la infinit respective.
+Două drepte de tip d) care nu se intersectează într-un punct propriu se
+intersectează în punctul de la infinit al "jumătăților superioare".&lt;/p&gt;
+&lt;p&gt;Arătați că se obține un plan proiectiv în care nu este satisfăcută axioma
+lui Desargues.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $P=[x], Q=[y]$ și $R=[z]$ trei puncte necoliniare dintr-un plan
+   proiectiv $\mathbb{P}(V)$. Fie $P'=[y+az] \in QR, Q'=[x+by] \in PR$
+   și $R'=[x+cy] \in PQ$. Atunci $P',Q'$ și $R'$ sînt coliniare dacă și
+   numai dacă $abc=-1$ (Menelaus)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $P=[x], Q=[y]$ și $R=[z]$ trei puncte necoliniare dintr-un plan
+   proiectiv $\mathbb{P}(V)$. Fie $P'=[y+az] \in QR, Q'=[x+by] \in PR$
+   și $R'=[x+cy] \in PQ$. Atunci $PP',QQ'$ și $RR'$ au un punct un comun
+   dacă și numai dacă $abc=1$ (Ceva)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Spații afine</title><link href="https://adhalanay.github.io/spatii-afine.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/spatii-afine.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $k$ un corp finit.Determinați numărul de drepte din
+   $\mathbb{A}^2(k)$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $(\mathcal{A},V,\varphi)$ un spațiu afin. Arătați că:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Două drepte distincte se intersectează în cel mult un punct.&lt;/li&gt;
+&lt;li&gt;Pentru orice dreaptă $d$ și orice punct $P \notin d$ există și este
+   unică o dreaptă …&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $k$ un corp finit.Determinați numărul de drepte din
+   $\mathbb{A}^2(k)$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $(\mathcal{A},V,\varphi)$ un spațiu afin. Arătați că:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Două drepte distincte se intersectează în cel mult un punct.&lt;/li&gt;
+&lt;li&gt;Pentru orice dreaptă $d$ și orice punct $P \notin d$ există și este
+   unică o dreaptă care trece prin $P$ și este paralelă cu $d$.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 3</title><link href="https://adhalanay.github.io/tema-3.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/tema-3.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Calculați valorile proprii și vectorii proprii corespunzători pentru:&lt;/p&gt;
+&lt;p&gt;$$
+\left(\begin{array}{ccc}
+4 &amp;amp; -1 &amp;amp; -2 \
+2 &amp;amp; 1 &amp;amp; -2 \
+1 &amp;amp; -1 &amp;amp; 1
+\end{array} \right)
+$$
+$$\left(\begin{array}{ccc}
+2 &amp;amp; -5 &amp;amp; -3 \
+-1 &amp;amp; -2 &amp;amp; -3 \
+3 &amp;amp; 15 &amp;amp; 12 \end{array}\right)
+$$
+$$\left(\begin{array}{ccc}
+0 &amp;amp; 1 &amp;amp; 0 &amp;amp; 0 \
+3 &amp;amp; 0 …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Calculați valorile proprii și vectorii proprii corespunzători pentru:&lt;/p&gt;
+&lt;p&gt;$$
+\left(\begin{array}{ccc}
+4 &amp;amp; -1 &amp;amp; -2 \
+2 &amp;amp; 1 &amp;amp; -2 \
+1 &amp;amp; -1 &amp;amp; 1
+\end{array} \right)
+$$
+$$\left(\begin{array}{ccc}
+2 &amp;amp; -5 &amp;amp; -3 \
+-1 &amp;amp; -2 &amp;amp; -3 \
+3 &amp;amp; 15 &amp;amp; 12 \end{array}\right)
+$$
+$$\left(\begin{array}{ccc}
+0 &amp;amp; 1 &amp;amp; 0 &amp;amp; 0 \
+3 &amp;amp; 0 &amp;amp; 2 &amp;amp; 0 \
+0 &amp;amp; 2 &amp;amp; 0 &amp;amp; 3 \
+0 &amp;amp; 0 &amp;amp; 1 &amp;amp; 0
+\end{array}\right)
+$$
+$$\left(\begin{array}{ccc}
+1 &amp;amp; 0 &amp;amp; 1 &amp;amp; 0 \
+1 &amp;amp; 1 &amp;amp; 0 &amp;amp; 1 \
+1 &amp;amp; 0 &amp;amp; 1 &amp;amp; 0 \
+0 &amp;amp; 1 &amp;amp; 1 &amp;amp; 1
+   \end{array}\right).
+$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Determinați valorile proprii și vectorii proprii pentru operatorul de
+   derivare pe $K_n[X]$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că operatorii de proiecție și simetrie sînt diagonalizabili (există o
+   bază a spațiului formată din vectori proprii).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că un operator nilpotent (care satisface $f^n=0$ pentru un $n$
+   natural) nu are alte valori proprii decît $0$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că un operator liniar $V \to V$ care comută cu toți operatorii este de forma $\lambda Id_V$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 4</title><link href="https://adhalanay.github.io/tema-4.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/tema-4.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Aplicați procedeul Gram-Schmidt pentru sistemul de vectori
+   ${x_1,x_2,x_3}$, unde&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;$x_1=(1,-2,2), x_2=(-1,0,-1),x_3=(5,-3,-7)$&lt;/li&gt;
+&lt;li&gt;$x_1=(1,1,1,1),x_2=(3,3,-1,-1),x_3=(-2,0,6,8)$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $L_1,L_2$ două subspații ale unui spațiu euclidian. Arătați:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;$\left(L …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Aplicați procedeul Gram-Schmidt pentru sistemul de vectori
+   ${x_1,x_2,x_3}$, unde&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;$x_1=(1,-2,2), x_2=(-1,0,-1),x_3=(5,-3,-7)$&lt;/li&gt;
+&lt;li&gt;$x_1=(1,1,1,1),x_2=(3,3,-1,-1),x_3=(-2,0,6,8)$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $L_1,L_2$ două subspații ale unui spațiu euclidian. Arătați:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;$\left(L^\perp\right)^\perp = L$;&lt;/li&gt;
+&lt;li&gt;Dacă $L_1 \subset L_2$ atunci $L_2^\perp \subset L_1^\perp$;&lt;/li&gt;
+&lt;li&gt;$(L_1+L_2)^\perp=L_1^\perp \cap L_2^\perp$;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;$(L_1 \cap L_2)^\perp = L_1^\perp + L_2^\perp$;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Găsiți o bază în complementul ortogonal al subspațiului generat de
+   ${x_1,x_2,x_3}$, unde $x_1=(1,3,0,2),x_2=(3,7,-1,2),x_3=(2,4,-1,0)}$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Să se construiască un produs scalar pe $\mathbb{R}_n[X]$ asftel încît baza $1,X,\frac{X^2}{2!},\frac{X^3}{3!},\dots,\frac{X^n}{n!}$
+    să fie ortonormată.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Să se descompună vectorul $(5,2,-2,2)$ ca suma dintre unul din acoperirea
+   liniară a vectorilor $(2,1,1,-1),(1,1,3,0)$ și unul din complementul
+   ortogonal al acesteia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 2</title><link href="https://adhalanay.github.io/tema-2.html" rel="alternate"></link><published>2016-10-17T00:00:00+03:00</published><updated>2016-10-17T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2016-10-17:/tema-2.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $V$ un spațiu vectorial și $L_1$ un subspațiu propriu. Arătați că
+există un subspațiu $L_2$ astfel încît $V=L_1 \oplus L_2$. Este $L_2$
+unic?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că suma directă a sub-spațiilor vectoriale $L_1$ și $L_2$,
+   generate de $x_1=(2,3,11,5)$,$x_2=(1,1,5,2)$, $x_3=(0,1 …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $V$ un spațiu vectorial și $L_1$ un subspațiu propriu. Arătați că
+există un subspațiu $L_2$ astfel încît $V=L_1 \oplus L_2$. Este $L_2$
+unic?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că suma directă a sub-spațiilor vectoriale $L_1$ și $L_2$,
+   generate de $x_1=(2,3,11,5)$,$x_2=(1,1,5,2)$, $x_3=(0,1,1,1)$, respectiv
+   de $y_1=(2,1,3,2)$, $y_2=(1,1,3,4)$,$y_3=(5,2,6,2)$ este $\mathbb{R}^4$.
+   Găsiți descompunerea lui $(2,0,0,3)$ după aceste subspații.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Calculați rangul matricei&lt;/p&gt;
+&lt;p&gt;$$ \left(\begin{array}{rrrrr}
+2 &amp;amp; 5 &amp;amp; -1 &amp;amp; 4 &amp;amp; 3 \
+-3 &amp;amp; 1 &amp;amp; 2 &amp;amp; 0 &amp;amp; 1 \ 
+4 &amp;amp; 1 &amp;amp; 6 &amp;amp; -1 &amp;amp; -1 \
+-2 &amp;amp; 3 &amp;amp; 0 &amp;amp; 4 &amp;amp; -9\end{array}  \right)$$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $V$ un spațiu vectorial cu descompunerea $V=L_1 \oplus L_2$. Arătați
+   că:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;aplicația care asociază oricărui vector $x$ din $V$, avînd
+   decompunerea $x=x_1+x_2$ cu $x_i \in L_i$, pe $x_2$ este aplicație liniară;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;aplicația care asociază lui $x$ pe $x_1-x_2$ este aplicație liniară.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Determinați imaginea și nucleul aplicațiilor de mai sus.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Sisteme liniare</title><link href="https://adhalanay.github.io/sisteme-liniare.html" rel="alternate"></link><published>2016-10-10T00:00:00+03:00</published><updated>2016-10-10T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2016-10-10:/sisteme-liniare.html</id><summary type="html">&lt;p&gt;&lt;a href="pdf/p1.pdf"&gt;Sisteme liniare&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="pdf/p1.pdf"&gt;Sisteme liniare&lt;/a&gt;&lt;/p&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 1</title><link href="https://adhalanay.github.io/tema-1.html" rel="alternate"></link><published>2016-10-10T00:00:00+03:00</published><updated>2016-10-10T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2016-10-10:/tema-1.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Să se determine o bază în spațiul soluțiilor sistemului
+$$
+\left{ \begin{array}{ll} 2x + 3y-2z+3t=0 \
+                          x+y-z+t=0. \
+\end{array} \right.
+$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $K$ un corp, $n &amp;gt;1$ și $V=M_n(K)$.&lt;/p&gt;
+&lt;p&gt;a. Arătați că $V_1 = { A \in V | A=A^t }$ și $V_2 = { A \in V | A …&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Să se determine o bază în spațiul soluțiilor sistemului
+$$
+\left{ \begin{array}{ll} 2x + 3y-2z+3t=0 \
+                          x+y-z+t=0. \
+\end{array} \right.
+$$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $K$ un corp, $n &amp;gt;1$ și $V=M_n(K)$.&lt;/p&gt;
+&lt;p&gt;a. Arătați că $V_1 = { A \in V | A=A^t }$ și $V_2 = { A \in V | A = -A^t }$ sînt
+  subspații vectoriale ale lui $V$ și determinați cîte o bază pentru ele.&lt;/p&gt;
+&lt;p&gt;b. Arătați că $V_1 = {A \in V | Tr(A)=0}$ și $V_2={A \in V | \exists \lambda
+  \in K \text{ astfel încît } A=\lambda I_n }$ sînt
+  subspații vectoriale ale lui $V$ și determinați cîte o bază.&lt;/p&gt;
+&lt;p&gt;Arătați că în cazurile a. și b., orice matrice $A \in V$ se poate scrie în mod
+unic ca $A=A_1+A_2$ cu $A_i \in V_i$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $F$ un corp finit. Arătați că numărul de elemente ale lui $F$ este de
+   forma $p^n$, unde $p$ este un număr prim.(Indicație: arătați mai întîi că
+   $F$ conține un subcorp cu $p$ elemente).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $K$ un corp și $V={P(X) \in K[X] | deg(P(X)) \leq n}$. Arătați că
+   ${1,1-X,1-X^2,\dots,1-X^n}$ este bază în $V$. Pentru $n=6$ și
+   $P(X)=2X^6+3X^5+2X^4+X^3-X^2+2X+1$ calculați descompunerea lui $P(X)$ în
+   raport cu această bază.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $V$ spațiul definit la exercițiul precedent. Fie $V_1={P(X) \in V |
+   P(-X)=P(X)}$ și $V_2={P(X) \in V | P(-X)=-P(X)}$  Găsiți cîte o bază în
+   $V_1$, respectiv $V_2$ și arătați că orice polinom din $P(X)=V$ se
+   poate scrie în mod unic ca $P_1(X)+P_2(X)$ cu $P_i(X) \in V_i$, pentru
+   $i=1,2$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $V$ un spațiu vectorial peste un corp $K$. Fie $V^&lt;em&gt;$ mulțimea
+   funcților $f:V \to K$, care satisfac $f(ax+by)=af(x)+bf(y)$ pentru orice
+   $a,b \in K$ și orice $x,y \in V$. Demonstrați că $V^&lt;/em&gt;$ este spațiu
+   vectorial și determinați o bază.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie $O$ un punct din planul geometric $\Pi$. Fie de asemenea $V_O={\vec{OA} | 
+   A \in \Pi}$. Arătați că $V_O$ împreună cu adunarea vectorilor și înmulțirea cu 
+   scalarii reali este spațiu vectorial peste $\mathbb{R}$.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry></feed>
