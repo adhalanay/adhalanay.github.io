@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site - Anul-I</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/anul-i.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-10-08T00:00:00+03:00</updated><entry><title>Spaţii vectoriale</title><link href="https://adhalanay.github.io/spatii-vectoriale.html" rel="alternate"></link><published>2018-10-08T00:00:00+03:00</published><updated>2018-10-08T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-08:/spatii-vectoriale.html</id><summary type="html">&lt;ol&gt;
 &lt;li&gt;Reformulaţi exerciţiile 3 şi 4 de săptămîna trecută folosind noţiunile de la&amp;nbsp;curs.&lt;/li&gt;
-&lt;li&gt;Fie &lt;div class="math"&gt;$$V$$&lt;/div&gt; un spaţiu vectorial şi &lt;span class="math"&gt;\(v_1,v_2,v_3 \in V\)&lt;/span&gt; liniar-independenţi.
-   Arătaţi că &lt;span class="math"&gt;\(v_1,v_1+v_2,v_1+v_2+v_3\)&lt;/span&gt; sînt liniar&amp;nbsp;independenţi,&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align …&lt;/script&gt;&lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+&lt;li&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spaţiu vectorial şi &lt;span class="math"&gt;\(v_1,v_2,v_3 \in V\)&lt;/span&gt; liniar-independenţi.
+   Arătaţi că &lt;span class="math"&gt;\(v_1,v_1+v_2,v_1+v_2+v_3\)&lt;/span&gt; sînt liniar&amp;nbsp;independenţi.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(K\)&lt;/span&gt; un corp, &lt;span class="math"&gt;\(n &amp;gt;1\)&lt;/span&gt; și &lt;span class="math"&gt;\(V=M_n(K)\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;a. Arătați că &lt;span class="math"&gt;\(V_1 …&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
         linebreak = "false";
@@ -67,9 +61,42 @@
 }
 &lt;/script&gt;</summary><content type="html">&lt;ol&gt;
 &lt;li&gt;Reformulaţi exerciţiile 3 şi 4 de săptămîna trecută folosind noţiunile de la&amp;nbsp;curs.&lt;/li&gt;
-&lt;li&gt;Fie &lt;div class="math"&gt;$$V$$&lt;/div&gt; un spaţiu vectorial şi &lt;span class="math"&gt;\(v_1,v_2,v_3 \in V\)&lt;/span&gt; liniar-independenţi.
-   Arătaţi că &lt;span class="math"&gt;\(v_1,v_1+v_2,v_1+v_2+v_3\)&lt;/span&gt; sînt liniar&amp;nbsp;independenţi,&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spaţiu vectorial şi &lt;span class="math"&gt;\(v_1,v_2,v_3 \in V\)&lt;/span&gt; liniar-independenţi.
+   Arătaţi că &lt;span class="math"&gt;\(v_1,v_1+v_2,v_1+v_2+v_3\)&lt;/span&gt; sînt liniar&amp;nbsp;independenţi.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(K\)&lt;/span&gt; un corp, &lt;span class="math"&gt;\(n &amp;gt;1\)&lt;/span&gt; și &lt;span class="math"&gt;\(V=M_n(K)\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;a. Arătați că &lt;span class="math"&gt;\(V_1 = \{ A \in V | A=A^t \}\)&lt;/span&gt; și &lt;span class="math"&gt;\(V_2 = \{ A \in V | A = -A^t \}\)&lt;/span&gt; sînt
+  subspații vectoriale ale lui &lt;span class="math"&gt;\(V\)&lt;/span&gt; și determinați cîte o bază pentru&amp;nbsp;ele.&lt;/p&gt;
+&lt;p&gt;b. Arătați că &lt;span class="math"&gt;\(V_1 = \{A \in V | Tr(A)=0\}\)&lt;/span&gt; și &lt;span class="math"&gt;\(V_2=\{A \in V | \exists \lambda
+  \in K \text{ astfel încît } A=\lambda I_n \}\)&lt;/span&gt; sînt
+  subspații vectoriale ale lui &lt;span class="math"&gt;\(V\)&lt;/span&gt; și determinați cîte o&amp;nbsp;bază.&lt;/p&gt;
+&lt;p&gt;Arătați că în cazurile a. și b., orice matrice &lt;span class="math"&gt;\(A \in V\)&lt;/span&gt; se poate scrie în mod
+unic ca &lt;span class="math"&gt;\(A=A_1+A_2\)&lt;/span&gt; cu &lt;span class="math"&gt;\(A_i \in V_i\)&lt;/span&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(F\)&lt;/span&gt; un corp finit. Arătați că numărul de elemente ale lui &lt;span class="math"&gt;\(F\)&lt;/span&gt; este de
+   forma &lt;span class="math"&gt;\(p^n\)&lt;/span&gt;, unde &lt;span class="math"&gt;\(p\)&lt;/span&gt; este un număr prim.(Indicație: arătați mai întîi că
+   &lt;span class="math"&gt;\(F\)&lt;/span&gt; conține un subcorp cu &lt;span class="math"&gt;\(p\)&lt;/span&gt;&amp;nbsp;elemente).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(K\)&lt;/span&gt; un corp și &lt;span class="math"&gt;\(V=\{P(X) \in K[X] | deg(P(X)) \leq n\}\)&lt;/span&gt;. Arătați că
+   &lt;span class="math"&gt;\(\{1,1-X,1-X^2,\dots,1-X^n\}\)&lt;/span&gt; este bază în &lt;span class="math"&gt;\(V\)&lt;/span&gt;. Pentru &lt;span class="math"&gt;\(n=6\)&lt;/span&gt; și
+   &lt;span class="math"&gt;\(P(X)=2X^6+3X^5+2X^4+X^3-X^2+2X+1\)&lt;/span&gt; calculați descompunerea lui &lt;span class="math"&gt;\(P(X)\)&lt;/span&gt; în
+   raport cu această&amp;nbsp;bază.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; spațiul definit la exercițiul precedent. Fie &lt;span class="math"&gt;\(V_1=\{P(X) \in V |
+   P(-X)=P(X)\}\)&lt;/span&gt; și &lt;span class="math"&gt;\(V_2=\{P(X) \in V | P(-X)=-P(X)\}\)&lt;/span&gt;  Găsiți cîte o bază în
+   &lt;span class="math"&gt;\(V_1\)&lt;/span&gt;, respectiv &lt;span class="math"&gt;\(V_2\)&lt;/span&gt; și arătați că orice polinom din &lt;span class="math"&gt;\(P(X)=V\)&lt;/span&gt; se
+   poate scrie în mod unic ca &lt;span class="math"&gt;\(P_1(X)+P_2(X)\)&lt;/span&gt; cu &lt;span class="math"&gt;\(P_i(X) \in V_i\)&lt;/span&gt;, pentru
+   &lt;span class="math"&gt;\(i=1,2\)&lt;/span&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spațiu vectorial peste un corp &lt;span class="math"&gt;\(K\)&lt;/span&gt;. Fie &lt;span class="math"&gt;\(V^*\)&lt;/span&gt; mulțimea
+   funcților &lt;span class="math"&gt;\(f:V \to K\)&lt;/span&gt;, care satisfac &lt;span class="math"&gt;\(f(ax+by)=af(x)+bf(y)\)&lt;/span&gt; pentru orice
+   &lt;span class="math"&gt;\(a,b \in K\)&lt;/span&gt; și orice &lt;span class="math"&gt;\(x,y \in V\)&lt;/span&gt;. Demonstrați că &lt;span class="math"&gt;\(V^*\)&lt;/span&gt; este spațiu
+   vectorial și determinați o&amp;nbsp;bază.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
