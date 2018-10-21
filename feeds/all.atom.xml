@@ -1,5 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/all.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-10-15T00:00:00+03:00</updated><entry><title>Independenţă liniară</title><link href="https://adhalanay.github.io/independenta-liniara.html" rel="alternate"></link><published>2018-10-15T00:00:00+03:00</published><updated>2018-10-15T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-15:/independenta-liniara.html</id><summary type="html">&lt;p&gt;&lt;a href="pdf/p2.pdf"&gt;Vectori&amp;nbsp;liniar-independenţi.Baze&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="pdf/p2.pdf"&gt;Vectori&amp;nbsp;liniar-independenţi.Baze&lt;/a&gt;&lt;/p&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 1 - Anul II</title><link href="https://adhalanay.github.io/tema-1-anul-ii.html" rel="alternate"></link><published>2018-10-14T00:00:00+03:00</published><updated>2018-10-14T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-14:/tema-1-anul-ii.html</id><summary type="html">&lt;ol&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/all.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-10-21T21:05:12+03:00</updated><entry><title>Curbura curbelor plane</title><link href="https://adhalanay.github.io/curbura-curbelor-plane.html" rel="alternate"></link><published>2018-10-21T21:05:12+03:00</published><updated>2018-10-21T21:05:12+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-21:/curbura-curbelor-plane.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;Calculați curbura într-un punct regulat &lt;span class="math"&gt;\(t\)&lt;/span&gt; pentru următoarele curbe :&lt;ol&gt;
+&lt;li&gt;Elipsă - &lt;span class="math"&gt;\(c:(0,2\pi) \to \mathbb{R}^2\)&lt;/span&gt;, cu &lt;span class="math"&gt;\(c(t)=\left(a \cdot cos(t), b \cdot sin(t)\right)\)&lt;/span&gt;;&lt;/li&gt;
+&lt;li&gt;Hiperbolă - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left(a \cdot ch(t),b \cdot sh(t …&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;&lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;Calculați curbura într-un punct regulat &lt;span class="math"&gt;\(t\)&lt;/span&gt; pentru următoarele curbe :&lt;ol&gt;
+&lt;li&gt;Elipsă - &lt;span class="math"&gt;\(c:(0,2\pi) \to \mathbb{R}^2\)&lt;/span&gt;, cu &lt;span class="math"&gt;\(c(t)=\left(a \cdot cos(t), b \cdot sin(t)\right)\)&lt;/span&gt;;&lt;/li&gt;
+&lt;li&gt;Hiperbolă - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left(a \cdot ch(t),b \cdot sh(t) \right)\)&lt;/span&gt;;&lt;/li&gt;
+&lt;li&gt;Parabolă - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left(2pt^2,t\right)\)&lt;/span&gt;;&lt;/li&gt;
+&lt;li&gt;Spirala lui Arhimede - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left( t\cdot cos(t), t\cdot sin(t) \right)\)&lt;/span&gt;;&lt;/li&gt;
+&lt;li&gt;Spirala logaritmică - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left( e^t \cdot cos(t), e^t\cdot sin(t) \right)\)&lt;/span&gt;;&lt;/li&gt;
+&lt;li&gt;Cicloidă - &lt;span class="math"&gt;\(c:(0,2\pi) \to \mathbb{R}^2\)&lt;/span&gt;,
+   &lt;span class="math"&gt;\(c(t)=\left(r\cdot(t-sin(t)),r\cdot(1-cos(t))\right)\)&lt;/span&gt;;&lt;/li&gt;
+&lt;li&gt;Hipocicloidă- &lt;span class="math"&gt;\(c(t)=\left(\left(R-r\right)\cdot cos(t)+r \cdot cos\left(\frac{R-r}{r}t\right),\left(R-r\right)\cdot
+   sin(t)-r \cdot sin\left(\frac{R-r}{r}t\right)\right)\)&lt;/span&gt;;&lt;/li&gt;
+&lt;li&gt;Epicicloidă- &lt;span class="math"&gt;\(c(t)=\left(\left(R+r\right)\cdot cos(t)-r \cdot cos\left(\frac{R+r}{r}t\right),\left(R+r\right)\cdot 
+   sin(t)-r \cdot sin\left(\frac{R+r}{r}t\right)\right)\)&lt;/span&gt;; la acest punct și la precedentul determinați și intervalul de definiție al&amp;nbsp;curbei.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că dacă toate normalele la o curbă plană trec printr-un punct fix, atunci
+   curba este conținută într-un&amp;nbsp;cerc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că dacă toate dreptele tangente la o curbă plană trec printr-un fix,
+   atunci curba este un segment de&amp;nbsp;dreaptă.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(c:I \to \mathbb{R}^2\)&lt;/span&gt; o curbă regulată cu a cărei curbură nu se
+   anulează în nici un punct. Fie curba 
+   &lt;div class="math"&gt;$$r(t) = c(t)+\frac{1}{k(t)}e_2(t), $$&lt;/div&gt;
+   numită &lt;strong&gt;evoluta&lt;/strong&gt; lui &lt;span class="math"&gt;\(c\)&lt;/span&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Arătați că tangenta la evolută în &lt;span class="math"&gt;\(t\)&lt;/span&gt; este normala lui &lt;span class="math"&gt;\(c\)&lt;/span&gt; în
+ &lt;span class="math"&gt;\(t\)&lt;/span&gt;.&lt;/li&gt;
+&lt;li&gt;Fie două puncte &lt;span class="math"&gt;\(t_1,t_2 \in I\)&lt;/span&gt;. Arătați că atunci cînd &lt;span class="math"&gt;\(t_1\)&lt;/span&gt; se
+ apropie de      &lt;span class="math"&gt;\(t_2\)&lt;/span&gt;, punctul de intersecție al normalelor tinde la un
+ punct de pe&amp;nbsp;curbă.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="teme"></category><category term="Anul-II"></category></entry><entry><title>Independenţă liniară</title><link href="https://adhalanay.github.io/independenta-liniara.html" rel="alternate"></link><published>2018-10-15T00:00:00+03:00</published><updated>2018-10-15T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-15:/independenta-liniara.html</id><summary type="html">&lt;p&gt;&lt;a href="pdf/p2.pdf"&gt;Vectori&amp;nbsp;liniar-independenţi.Baze&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="pdf/p2.pdf"&gt;Vectori&amp;nbsp;liniar-independenţi.Baze&lt;/a&gt;&lt;/p&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 1 - Anul II</title><link href="https://adhalanay.github.io/tema-1-anul-ii.html" rel="alternate"></link><published>2018-10-14T00:00:00+03:00</published><updated>2018-10-14T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-14:/tema-1-anul-ii.html</id><summary type="html">&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Determinați tangenta și normala într-un punct regulat &lt;span class="math"&gt;\(t\)&lt;/span&gt; precum și lungimea
    unui segment pentru&amp;nbsp;curbele:&lt;/p&gt;
@@ -1984,155 +2132,7 @@ lui&amp;nbsp;Desargues.&lt;/p&gt;
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 2 - Curbe și Suprafețe</title><link href="https://adhalanay.github.io/tema-2-curbe-si-suprafete.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/tema-2-curbe-si-suprafete.html</id><summary type="html">&lt;ol&gt;
-&lt;li&gt;Calculați curbura într-un punct regulat &lt;span class="math"&gt;\(t\)&lt;/span&gt; pentru următoarele curbe :&lt;ol&gt;
-&lt;li&gt;Elipsă - &lt;span class="math"&gt;\(c:(0,2\pi) \to \mathbb{R}^2\)&lt;/span&gt;, cu &lt;span class="math"&gt;\(c(t)=\left(a \cdot cos(t), b \cdot sin(t)\right)\)&lt;/span&gt;;&lt;/li&gt;
-&lt;li&gt;Hiperbolă - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left(a \cdot ch(t),b \cdot sh(t …&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;&lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</summary><content type="html">&lt;ol&gt;
-&lt;li&gt;Calculați curbura într-un punct regulat &lt;span class="math"&gt;\(t\)&lt;/span&gt; pentru următoarele curbe :&lt;ol&gt;
-&lt;li&gt;Elipsă - &lt;span class="math"&gt;\(c:(0,2\pi) \to \mathbb{R}^2\)&lt;/span&gt;, cu &lt;span class="math"&gt;\(c(t)=\left(a \cdot cos(t), b \cdot sin(t)\right)\)&lt;/span&gt;;&lt;/li&gt;
-&lt;li&gt;Hiperbolă - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left(a \cdot ch(t),b \cdot sh(t) \right)\)&lt;/span&gt;;&lt;/li&gt;
-&lt;li&gt;Parabolă - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left(2pt^2,t\right)\)&lt;/span&gt;;&lt;/li&gt;
-&lt;li&gt;Spirala lui Arhimede - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left( t\cdot cos(t), t\cdot sin(t) \right)\)&lt;/span&gt;;&lt;/li&gt;
-&lt;li&gt;Spirala logaritmică - &lt;span class="math"&gt;\(c: \mathbb{R} \to \mathbb{R}^2\)&lt;/span&gt;, &lt;span class="math"&gt;\(c(t)=\left( e^t \cdot cos(t), e^t\cdot sin(t) \right)\)&lt;/span&gt;;&lt;/li&gt;
-&lt;li&gt;Cicloidă - &lt;span class="math"&gt;\(c:(0,2\pi) \to \mathbb{R}^2\)&lt;/span&gt;,
-   &lt;span class="math"&gt;\(c(t)=\left(r\cdot(t-sin(t)),r\cdot(1-cos(t))\right)\)&lt;/span&gt;;&lt;/li&gt;
-&lt;li&gt;Hipocicloidă- &lt;span class="math"&gt;\(c(t)=\left(\left(R-r\right)\cdot cos(t)+r \cdot cos\left(\frac{R-r}{r}t\right),\left(R-r\right)\cdot
-   sin(t)-r \cdot sin\left(\frac{R-r}{r}t\right)\right)\)&lt;/span&gt;;&lt;/li&gt;
-&lt;li&gt;Epicicloidă- &lt;span class="math"&gt;\(c(t)=\left(\left(R+r\right)\cdot cos(t)-r \cdot cos\left(\frac{R+r}{r}t\right),\left(R+r\right)\cdot 
-   sin(t)-r \cdot sin\left(\frac{R+r}{r}t\right)\right)\)&lt;/span&gt;; la acest punct și la precedentul determinați și intervalul de definiție al&amp;nbsp;curbei.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Arătați că dacă toate normalele la o curbă plană trec printr-un punct fix, atunci
-   curba este conținută într-un&amp;nbsp;cerc.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Arătați că dacă toate dreptele tangente la o curbă plană trec printr-un fix,
-   atunci curba este un segment de&amp;nbsp;dreaptă.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fie &lt;span class="math"&gt;\(c:I \to \mathbb{R}^2\)&lt;/span&gt; o curbă regulată cu a cărei curbură nu se
-   anulează în nici un punct. Fie curba 
-   &lt;div class="math"&gt;$$r(t) = c(t)+\frac{1}{k(t)}e_2(t), $$&lt;/div&gt;
-   numită &lt;strong&gt;evoluta&lt;/strong&gt; lui &lt;span class="math"&gt;\(c\)&lt;/span&gt;.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Arătați că tangenta la evolută în &lt;span class="math"&gt;\(t\)&lt;/span&gt; este normala lui &lt;span class="math"&gt;\(c\)&lt;/span&gt; în
- &lt;span class="math"&gt;\(t\)&lt;/span&gt;.&lt;/li&gt;
-&lt;li&gt;Fie două puncte &lt;span class="math"&gt;\(t_1,t_2 \in I\)&lt;/span&gt;. Arătați că atunci cînd &lt;span class="math"&gt;\(t_1\)&lt;/span&gt; se
- apropie de      &lt;span class="math"&gt;\(t_2\)&lt;/span&gt;, punctul de intersecție al normalelor tinde la un
- punct de pe&amp;nbsp;curbă.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</content><category term="teme"></category><category term="Anul-II"></category></entry><entry><title>Tema 3</title><link href="https://adhalanay.github.io/tema-3.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/tema-3.html</id><summary type="html">&lt;ol&gt;
+&lt;/script&gt;</content><category term="Teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 3</title><link href="https://adhalanay.github.io/tema-3.html" rel="alternate"></link><published>2018-10-02T20:14:33+03:00</published><updated>2018-10-02T20:14:33+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-02:/tema-3.html</id><summary type="html">&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Calculați valorile proprii și vectorii proprii corespunzători&amp;nbsp;pentru:&lt;/p&gt;
 &lt;p&gt;
