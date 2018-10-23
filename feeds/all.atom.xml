@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/all.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-10-23T06:18:32+03:00</updated><entry><title>Subspaţii vectoriale</title><link href="https://adhalanay.github.io/subspatii-vectoriale.html" rel="alternate"></link><published>2018-10-23T06:18:32+03:00</published><updated>2018-10-23T06:18:32+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-23:/subspatii-vectoriale.html</id><summary type="html">&lt;ol&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/all.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-10-23T19:00:29+03:00</updated><entry><title>Subspaţii vectoriale</title><link href="https://adhalanay.github.io/subspatii-vectoriale.html" rel="alternate"></link><published>2018-10-23T19:00:29+03:00</published><updated>2018-10-23T19:00:29+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-23:/subspatii-vectoriale.html</id><summary type="html">&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Fie &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; subspaţiul generat de &lt;span class="math"&gt;\(x_1,\dots,x_k\)&lt;/span&gt; şi &lt;span class="math"&gt;\(L_2\)&lt;/span&gt; cel generat de
    &lt;span class="math"&gt;\(y_1,\dots,y_l\)&lt;/span&gt;. Determinaţi dimensiunea lui &lt;span class="math"&gt;\(L_1,L_2\)&lt;/span&gt; şi cîte o bază în &lt;span class="math"&gt;\(L_1 + L_2\)&lt;/span&gt; şi în &lt;span class="math"&gt;\(L_1 \cap L_2\)&lt;/span&gt;,&amp;nbsp;unde&lt;/p&gt;
@@ -72,7 +72,7 @@
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Scrieţi vectorul &lt;span class="math"&gt;\(x=(1,0,1)\)&lt;/span&gt; ca suma &lt;span class="math"&gt;\(x=z_1+z_2\)&lt;/span&gt; cu &lt;span class="math"&gt;\(z_1 \in L_2\)&lt;/span&gt;, &lt;span class="math"&gt;\(z_2 \in
+&lt;p&gt;Scrieţi vectorul &lt;span class="math"&gt;\(x=(1,0,1)\)&lt;/span&gt; ca suma &lt;span class="math"&gt;\(x=z_1+z_2\)&lt;/span&gt; cu &lt;span class="math"&gt;\(z_1 \in L_1\)&lt;/span&gt;, &lt;span class="math"&gt;\(z_2 \in
    L_2\)&lt;/span&gt;, de la&amp;nbsp;1.3.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -95,155 +95,6 @@ există un subspațiu &lt;span class="math"&gt;\(L_2\)&lt;/span&gt; astfel înc�
    &lt;div class="math"&gt;$$A=\left(\begin{array}{cccc} 1 &amp;amp; 2 &amp;amp; 1 &amp;amp; 2 \\ 2 &amp;amp; -1 &amp;amp; 3 &amp;amp; -1 \\ 5 &amp;amp; -7 &amp;amp; 7 &amp;amp; -7  \end{array}\right).$$&lt;/div&gt;
    Arătaţi că &lt;span class="math"&gt;\(L_1 \oplus L_2 = \mathbb{R}^4\)&lt;/span&gt; şi descompuneţi vectorul
    &lt;span class="math"&gt;\(x=(1,-1,0,1)\)&lt;/span&gt; după această&amp;nbsp;sumă.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 2</title><link href="https://adhalanay.github.io/tema-2.html" rel="alternate"></link><published>2018-10-22T00:00:00+03:00</published><updated>2018-10-22T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-22:/tema-2.html</id><summary type="html">&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spațiu vectorial și &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; un subspațiu propriu. Arătați că
-există un subspațiu &lt;span class="math"&gt;\(L_2\)&lt;/span&gt; astfel încît &lt;span class="math"&gt;\(V=L_1 \oplus L_2\)&lt;/span&gt;. Este &lt;span class="math"&gt;\(L_2\)&lt;/span&gt;&amp;nbsp;unic?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Arătați că suma directă a sub-spațiilor vectoriale &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; și &lt;span class="math"&gt;\(L_2\)&lt;/span&gt;,
-   generate de &lt;span class="math"&gt;\(x_1=(2,3,11,5)\)&lt;/span&gt;,&lt;span class="math"&gt;\(x_2=(1,1,5,2)\)&lt;/span&gt;, &lt;span class="math"&gt;\(x_3=(0,1 …&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</summary><content type="html">&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spațiu vectorial și &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; un subspațiu propriu. Arătați că
-există un subspațiu &lt;span class="math"&gt;\(L_2\)&lt;/span&gt; astfel încît &lt;span class="math"&gt;\(V=L_1 \oplus L_2\)&lt;/span&gt;. Este &lt;span class="math"&gt;\(L_2\)&lt;/span&gt;&amp;nbsp;unic?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Arătați că suma directă a sub-spațiilor vectoriale &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; și &lt;span class="math"&gt;\(L_2\)&lt;/span&gt;,
-   generate de &lt;span class="math"&gt;\(x_1=(2,3,11,5)\)&lt;/span&gt;,&lt;span class="math"&gt;\(x_2=(1,1,5,2)\)&lt;/span&gt;, &lt;span class="math"&gt;\(x_3=(0,1,1,1)\)&lt;/span&gt;, respectiv
-   de &lt;span class="math"&gt;\(y_1=(2,1,3,2)\)&lt;/span&gt;, &lt;span class="math"&gt;\(y_2=(1,1,3,4)\)&lt;/span&gt;,&lt;span class="math"&gt;\(y_3=(5,2,6,2)\)&lt;/span&gt; este &lt;span class="math"&gt;\(\mathbb{R}^4\)&lt;/span&gt;.
-   Găsiți descompunerea lui &lt;span class="math"&gt;\((2,0,0,3)\)&lt;/span&gt; după aceste&amp;nbsp;subspații.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Calculați rangul&amp;nbsp;matricei&lt;/p&gt;
-&lt;p&gt;
-&lt;div class="math"&gt;$$ \left(\begin{array}{rrrrr}
-2 &amp;amp; 5 &amp;amp; -1 &amp;amp; 4 &amp;amp; 3 \\
--3 &amp;amp; 1 &amp;amp; 2 &amp;amp; 0 &amp;amp; 1 \\ 
-4 &amp;amp; 1 &amp;amp; 6 &amp;amp; -1 &amp;amp; -1 \\
--2 &amp;amp; 3 &amp;amp; 0 &amp;amp; 4 &amp;amp; -9\end{array}  \right)$$&lt;/div&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spațiu vectorial cu descompunerea &lt;span class="math"&gt;\(V=L_1 \oplus L_2\)&lt;/span&gt;. Arătați&amp;nbsp;că:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;aplicația care asociază oricărui vector &lt;span class="math"&gt;\(x\)&lt;/span&gt; din &lt;span class="math"&gt;\(V\)&lt;/span&gt;, avînd
-   decompunerea &lt;span class="math"&gt;\(x=x_1+x_2\)&lt;/span&gt; cu &lt;span class="math"&gt;\(x_i \in L_i\)&lt;/span&gt;, pe &lt;span class="math"&gt;\(x_2\)&lt;/span&gt; este aplicație&amp;nbsp;liniară;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;aplicația care asociază lui &lt;span class="math"&gt;\(x\)&lt;/span&gt; pe &lt;span class="math"&gt;\(x_1-x_2\)&lt;/span&gt; este aplicație&amp;nbsp;liniară.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Determinați imaginea și nucleul aplicațiilor de mai&amp;nbsp;sus.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
@@ -3230,7 +3081,156 @@ punctele e) și&amp;nbsp;f).&lt;/p&gt;</content><category term="Teme"></category
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</content><category term="teme"></category><category term="Anul-II"></category></entry><entry><title>Tema 1</title><link href="https://adhalanay.github.io/tema-1.html" rel="alternate"></link><published>2016-10-10T00:00:00+03:00</published><updated>2016-10-10T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2016-10-10:/tema-1.html</id><summary type="html">&lt;ol&gt;
+&lt;/script&gt;</content><category term="teme"></category><category term="Anul-II"></category></entry><entry><title>Tema 2</title><link href="https://adhalanay.github.io/tema-2.html" rel="alternate"></link><published>2016-10-22T00:00:00+03:00</published><updated>2016-10-22T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2016-10-22:/tema-2.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spațiu vectorial și &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; un subspațiu propriu. Arătați că
+există un subspațiu &lt;span class="math"&gt;\(L_2\)&lt;/span&gt; astfel încît &lt;span class="math"&gt;\(V=L_1 \oplus L_2\)&lt;/span&gt;. Este &lt;span class="math"&gt;\(L_2\)&lt;/span&gt;&amp;nbsp;unic?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că suma directă a sub-spațiilor vectoriale &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; și &lt;span class="math"&gt;\(L_2\)&lt;/span&gt;,
+   generate de &lt;span class="math"&gt;\(x_1=(2,3,11,5)\)&lt;/span&gt;,&lt;span class="math"&gt;\(x_2=(1,1,5,2)\)&lt;/span&gt;, &lt;span class="math"&gt;\(x_3=(0,1 …&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;script type='text/javascript'&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spațiu vectorial și &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; un subspațiu propriu. Arătați că
+există un subspațiu &lt;span class="math"&gt;\(L_2\)&lt;/span&gt; astfel încît &lt;span class="math"&gt;\(V=L_1 \oplus L_2\)&lt;/span&gt;. Este &lt;span class="math"&gt;\(L_2\)&lt;/span&gt;&amp;nbsp;unic?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arătați că suma directă a sub-spațiilor vectoriale &lt;span class="math"&gt;\(L_1\)&lt;/span&gt; și &lt;span class="math"&gt;\(L_2\)&lt;/span&gt;,
+   generate de &lt;span class="math"&gt;\(x_1=(2,3,11,5)\)&lt;/span&gt;,&lt;span class="math"&gt;\(x_2=(1,1,5,2)\)&lt;/span&gt;, &lt;span class="math"&gt;\(x_3=(0,1,1,1)\)&lt;/span&gt;, respectiv
+   de &lt;span class="math"&gt;\(y_1=(2,1,3,2)\)&lt;/span&gt;, &lt;span class="math"&gt;\(y_2=(1,1,3,4)\)&lt;/span&gt;,&lt;span class="math"&gt;\(y_3=(5,2,6,2)\)&lt;/span&gt; este &lt;span class="math"&gt;\(\mathbb{R}^4\)&lt;/span&gt;.
+   Găsiți descompunerea lui &lt;span class="math"&gt;\((2,0,0,3)\)&lt;/span&gt; după aceste&amp;nbsp;subspații.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Calculați rangul&amp;nbsp;matricei&lt;/p&gt;
+&lt;p&gt;
+&lt;div class="math"&gt;$$ \left(\begin{array}{rrrrr}
+2 &amp;amp; 5 &amp;amp; -1 &amp;amp; 4 &amp;amp; 3 \\
+-3 &amp;amp; 1 &amp;amp; 2 &amp;amp; 0 &amp;amp; 1 \\ 
+4 &amp;amp; 1 &amp;amp; 6 &amp;amp; -1 &amp;amp; -1 \\
+-2 &amp;amp; 3 &amp;amp; 0 &amp;amp; 4 &amp;amp; -9\end{array}  \right)$$&lt;/div&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fie &lt;span class="math"&gt;\(V\)&lt;/span&gt; un spațiu vectorial cu descompunerea &lt;span class="math"&gt;\(V=L_1 \oplus L_2\)&lt;/span&gt;. Arătați&amp;nbsp;că:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;aplicația care asociază oricărui vector &lt;span class="math"&gt;\(x\)&lt;/span&gt; din &lt;span class="math"&gt;\(V\)&lt;/span&gt;, avînd
+   decompunerea &lt;span class="math"&gt;\(x=x_1+x_2\)&lt;/span&gt; cu &lt;span class="math"&gt;\(x_i \in L_i\)&lt;/span&gt;, pe &lt;span class="math"&gt;\(x_2\)&lt;/span&gt; este aplicație&amp;nbsp;liniară;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;aplicația care asociază lui &lt;span class="math"&gt;\(x\)&lt;/span&gt; pe &lt;span class="math"&gt;\(x_1-x_2\)&lt;/span&gt; este aplicație&amp;nbsp;liniară.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Determinați imaginea și nucleul aplicațiilor de mai&amp;nbsp;sus.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Tema 1</title><link href="https://adhalanay.github.io/tema-1.html" rel="alternate"></link><published>2016-10-10T00:00:00+03:00</published><updated>2016-10-10T00:00:00+03:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2016-10-10:/tema-1.html</id><summary type="html">&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Să se determine o bază în spațiul soluțiilor sistemului
 &lt;div class="math"&gt;$$
