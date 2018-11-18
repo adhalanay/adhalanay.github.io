@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/all.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-11-12T00:00:00+02:00</updated><entry><title>Teorie spectrală</title><link href="https://adhalanay.github.io/teorie-spectrala.html" rel="alternate"></link><published>2018-11-12T00:00:00+02:00</published><updated>2018-11-12T00:00:00+02:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-11-12:/teorie-spectrala.html</id><summary type="html">&lt;p&gt;&lt;a href="pdf/p3.pdf"&gt;Vectori şi valori&amp;nbsp;proprii&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="pdf/p3.pdf"&gt;Vectori şi valori&amp;nbsp;proprii&lt;/a&gt;&lt;/p&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Curbe în spaţiu</title><link href="https://adhalanay.github.io/curbe-in-spatiu.html" rel="alternate"></link><published>2018-10-29T14:34:35+02:00</published><updated>2018-10-29T14:34:35+02:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-29:/curbe-in-spatiu.html</id><summary type="html">&lt;ol&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Web Site</title><link href="https://adhalanay.github.io/" rel="alternate"></link><link href="https://adhalanay.github.io/feeds/all.atom.xml" rel="self"></link><id>https://adhalanay.github.io/</id><updated>2018-11-20T00:00:00+02:00</updated><entry><title>Curbe şi curburi</title><link href="https://adhalanay.github.io/curbe-si-curburi.html" rel="alternate"></link><published>2018-11-20T00:00:00+02:00</published><updated>2018-11-20T00:00:00+02:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-11-20:/curbe-si-curburi.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;Elipsa &lt;img alt="Elipsa" src="imagini/elipsa.png"&gt; şi curbura ei
+   &lt;img alt="curbura" src="imagini/curbura_elipsa.png"&gt;&lt;/li&gt;
+&lt;li&gt;Cîteva ovale ale lui Cassini şi curburile lor:
+   &lt;img alt="c1" src="imagini/cas23.png"&gt; 
+   &lt;img alt="c2" src="imagini/curbura_cas23.png"&gt; 
+   &lt;img alt="c3" src="imagini/cas22.02.png"&gt;
+   &lt;img alt="c4" src="imagini/curbura_cas22.02.png"&gt;
+   &lt;img alt="c5" src="imagini/lemniscata.png"&gt;
+   &lt;img alt="c6" src="imagini/curbura_lemniscata.png"&gt;
+   &lt;img alt="c7" src="imagini/cas21.9.png"&gt;
+   &lt;img alt="c8" src="imagini/curbura_cas21.9.png"&gt;&lt;/li&gt;
+&lt;li&gt;Spirala&amp;nbsp;logaritmică&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="c9" src="imagini/spirala.png"&gt;
+   &lt;img alt="c10" src="imagini/curbura_spirala.png"&gt;&lt;/p&gt;</summary><content type="html">&lt;ol&gt;
+&lt;li&gt;Elipsa &lt;img alt="Elipsa" src="imagini/elipsa.png"&gt; şi curbura ei
+   &lt;img alt="curbura" src="imagini/curbura_elipsa.png"&gt;&lt;/li&gt;
+&lt;li&gt;Cîteva ovale ale lui Cassini şi curburile lor:
+   &lt;img alt="c1" src="imagini/cas23.png"&gt; 
+   &lt;img alt="c2" src="imagini/curbura_cas23.png"&gt; 
+   &lt;img alt="c3" src="imagini/cas22.02.png"&gt;
+   &lt;img alt="c4" src="imagini/curbura_cas22.02.png"&gt;
+   &lt;img alt="c5" src="imagini/lemniscata.png"&gt;
+   &lt;img alt="c6" src="imagini/curbura_lemniscata.png"&gt;
+   &lt;img alt="c7" src="imagini/cas21.9.png"&gt;
+   &lt;img alt="c8" src="imagini/curbura_cas21.9.png"&gt;&lt;/li&gt;
+&lt;li&gt;Spirala&amp;nbsp;logaritmică&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="c9" src="imagini/spirala.png"&gt;
+   &lt;img alt="c10" src="imagini/curbura_spirala.png"&gt;&lt;/p&gt;</content><category term="teme"></category><category term="Anul-II"></category></entry><entry><title>Teorie spectrală</title><link href="https://adhalanay.github.io/teorie-spectrala.html" rel="alternate"></link><published>2018-11-12T00:00:00+02:00</published><updated>2018-11-12T00:00:00+02:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-11-12:/teorie-spectrala.html</id><summary type="html">&lt;p&gt;&lt;a href="pdf/p3.pdf"&gt;Vectori şi valori&amp;nbsp;proprii&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="pdf/p3.pdf"&gt;Vectori şi valori&amp;nbsp;proprii&lt;/a&gt;&lt;/p&gt;</content><category term="teme"></category><category term="Anul-I"></category></entry><entry><title>Curbe în spaţiu</title><link href="https://adhalanay.github.io/curbe-in-spatiu.html" rel="alternate"></link><published>2018-10-29T14:34:35+02:00</published><updated>2018-10-29T14:34:35+02:00</updated><author><name>Andrei Halanay</name></author><id>tag:adhalanay.github.io,2018-10-29:/curbe-in-spatiu.html</id><summary type="html">&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Determinați reperul Frenet, planele osculator, normal și rectifiant, curbura
    și torsiunea&amp;nbsp;pentru:&lt;/p&gt;
