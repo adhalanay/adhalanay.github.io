@@ -1,45 +1,10 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
     <head>
-        <meta charset="utf-8"> 
+        <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Andrei Halanay" />
-        <meta name="copyright" content="Andrei Halanay" />
-<!-- Yandex.Metrika informer -->
-<a href="https://metrika.yandex.com/stat/?id=50581048&amp;from=informer"
-target="_blank" rel="nofollow"><img src="https://metrika-informer.com/informer/50581048/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
-style="width:88px; height:31px; border:0;" alt="Yandex.Metrica" title="Yandex.Metrica: data for today (page views, visits and unique users)" class="ym-advanced-informer" data-cid="50581048" data-lang="en" /></a>
-<!-- /Yandex.Metrika informer -->
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter50581048 = new Ya.Metrika2({
-                    id:50581048,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true
-                });
-            } catch(e) { }
-        });
-
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks2");
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/50581048" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
 
         <meta property="og:type" content="article" />
         <meta name="twitter:card" content="summary">
@@ -56,9 +21,12 @@ style="width:88px; height:31px; border:0;" alt="Yandex.Metrica" title="Yandex.Me
         <link rel="stylesheet" type="text/css" href="../theme/css/pygments.css" media="screen">
         <link rel="stylesheet" type="text/css" href="../theme/tipuesearch/tipuesearch.css" media="screen">
         <link rel="stylesheet" type="text/css" href="../theme/css/elegant.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="../theme/css/admonition.css" media="screen">
         <link rel="stylesheet" type="text/css" href="../theme/css/custom.css" media="screen">
         <link href="https://adhalanay.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="My Web Site - Full Atom Feed" />
-        
+
+
+
     </head>
     <body>
         <div id="content-sans-footer">
@@ -74,9 +42,9 @@ style="width:88px; height:31px; border:0;" alt="Yandex.Metrica" title="Yandex.Me
                     <div class="nav-collapse collapse">
                         <ul class="nav pull-right top-menu">
                             <li ><a href="..">Home</a></li>
-                            <li ><a href="../categories.html">Categories</a></li>
-                            <li ><a href="../tags.html">Tags</a></li>
-                            <li ><a href="../archives.html">Archives</a></li>
+                            <li ><a href="../categories">Categories</a></li>
+                            <li ><a href="../tags">Tags</a></li>
+                            <li ><a href="../archives">Archives</a></li>
                             <li><form class="navbar-search" action="../search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
                         </ul>
                     </div>
@@ -96,16 +64,16 @@ style="width:88px; height:31px; border:0;" alt="Yandex.Metrica" title="Yandex.Me
     <div class="row-fluid">
         <div class="span8 offset2">
             <header>
-            <h1 id="recent-posts">Recent Posts <a id="allposts" href="../archives.html">all posts</a></h1>
+            <h1 id="recent-posts">Recent Posts <a id="allposts" href="../archives">all posts</a></h1>
             </header>
         <div class="recent-posts">
-            <article>
+            <article itemscope>
                 <a href="../homotopy-type-theory-0prehistory.html">Homotopy Type Theory:&nbsp;0.Prehistory  </a>
                 <section>
                     posted in
-                <a href="../categories.html#research-ref">research</a>
+                <a href="../categories#research-ref">research</a>
                 <div class="recent-posts-time">
-                <time pubdate="pubdate" datetime="2018-10-02T20:14:33.917438+03:00">Tue 02 October 2018</time>
+                <time itemprop="dateCreated" datetime="2018-10-02T20:14:33.917438+03:00">Tue 02 October 2018</time>
                 </div>
                 </section>
             </article>
@@ -122,10 +90,10 @@ style="width:88px; height:31px; border:0;" alt="Yandex.Metrica" title="Yandex.Me
 <footer>
 <div id="footer">
     <ul class="footer-content">
-        <li class="elegant-power">Powered by <a href="http://getpelican.com/" title="Pelican Home Page">Pelican</a>. Theme: <a href="http://oncrashreboot.com/pelican-elegant" title="Theme Elegant Home Page">Elegant</a> by <a href="http://oncrashreboot.com" title="Talha Mansoor Home Page">Talha Mansoor</a></li>
+        <li class="elegant-power">Powered by <a href="http://getpelican.com/" title="Pelican Home Page">Pelican</a>. Theme: <a href="https://github.com/Pelican-Elegant/elegant/" title="Theme Elegant Home Page">Elegant</a></li>
     </ul>
 </div>
-</footer>        <script src="https://code.jquery.com/jquery.min.js"></script>
+</footer>        <script src="//code.jquery.com/jquery.min.js"></script>
         <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
         <script>
             function validateForm(query)
@@ -135,5 +103,5 @@ style="width:88px; height:31px; border:0;" alt="Yandex.Metrica" title="Yandex.Me
         </script>
     </body>
     <!-- Theme: Elegant built for Pelican
-    License : http://oncrashreboot.com/pelican-elegant -->
+    License : MIT -->
 </html>

@@ -158,7 +158,7 @@ div.highlight {
     font-size: .8em;
     vertical-align: super;
 }
-.tags-in-ar2ticle li {
+.tags-in-article li {
     float: none;
     line-height: 28px;
 }
@@ -198,7 +198,6 @@ article div.article-content ul:not(.articles-timeline) a:hover {
 }
 .article-content p {
     margin: 20px 0;
-    text-indent: 20px;
 }
 .article-content blockquote {
     border-left: 0;
@@ -604,4 +603,11 @@ div.figure.align-left, .article-content img.align-left {
     float: left;
     margin-right: 1.5em;
 }
-
+/* Author blurb */
+.author_blurb {
+    font-variant: small-caps;
+    font-style: italic;
+}
+.author_name {
+    font-weight: bold;
+}
